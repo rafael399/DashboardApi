@@ -9,6 +9,7 @@ A API tem o foco somente de listar os pedidos feitos, mas adicionei CRUDs para c
 
 A cada nova encomenda é criado um pedido, cada pedido tem o seu ID, Data de criação, Data da entrega e endereço. Cada pedido pode conter vários produtos e cada produto possui nome, descrição e valor. Cada encomenda é destinada a uma equipe e cada equipe possui nome, descrição e placa do veículo utilizado.
 
+[O frontend pode ser encontrado aqui](https://github.com/rafael399/DashboardFrontEnd)
 ## Banco de Dados
 Abaixo segue print demonstrando as tabelas criadas e seus relacionamentos
 
